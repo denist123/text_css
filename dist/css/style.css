@@ -1,0 +1,39 @@
+html {
+  background: gray;
+  font-size: 44px;
+  font-weight: 900;
+}
+
+.title {
+  color: yellow;
+  text-decoration: underline;
+  text-align: right;
+  margin: 20px 150px;
+}
+
+ul {
+  list-style-image: url("../img/Item.PNG");
+  padding: 0;
+  margin: 0;
+}
+
+.list {
+  padding: 90px;
+}
+
+.list_item {
+  color: green;
+  font-family: cursive;
+}
+
+img {
+  padding: 0;
+  margin: 0;
+}
+
+.block {
+  border: 10px solid red;
+  display: inline-block;
+  border-radius: 80px 0 80px 0;
+  overflow: hidden;
+}
